@@ -6,4 +6,7 @@ handler.help = ['ahegao', 'ass', 'bdsm', 'blowjob', 'cum', 'ero', 'femdom', 'foo
 handler.tags = ['nsfw']
 handler.command = /^(ahegao|ass|bdsm|blowjob|cum|ero|femdom|foot|gangbang|glasses|hentai|jahy|maid|manga|neko|orgy|panties|pussy|sfwneko|tentacles|thighs|yuri)$/i
 //buatan hyzer, jgn hapus atuh 😊
+
+handler.premium = true
+
 module.exports = handler
